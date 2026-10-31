@@ -20,7 +20,7 @@ focused on the Indian Subcontinent and Himalayan seismic belt.
 [![Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)](https://vercel.com/)
 [![USGS Data](https://img.shields.io/badge/Data-USGS%20Earthquake%20API-D4A017?style=flat-square&logo=databricks&logoColor=white)](https://earthquake.usgs.gov/fdsnws/event/1/)
 
-**[Live Demo](https://seismowatch-sigma.vercel.app/)** · **[Report an Issue](https://github.com/dk-khandelwal06/seismowatch/issues)** · **[Developer](https://www.linkedin.com/in/daksh-khandelwal-b02748391/)**
+**[Live Demo](https://seismowatch-sigma.vercel.app/)** · **[Report an Issue](https://github.com/dk-khandelwal06/seismowatch/issues)** · **[Developer](https://www.linkedin.com/in/daksh-khandelwal-b02748391/)** · **[Demo Video]()**
 
 </div>
 
